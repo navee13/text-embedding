@@ -1,0 +1,4 @@
+services/onnx_clip/data/*
+!services/onnx_clip/data/bpe_simple_vocab_16e6.txt.gz
+myenv
+__pycache__
